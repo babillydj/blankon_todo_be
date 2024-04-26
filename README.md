@@ -19,8 +19,8 @@ you can open *localhost:8000/admin/* or *localhost:8000/api/v1/init* for trial
 
 # Notes
 superuser account for admin (localhost:8000/admin/):    
-username = julouser   
-password = julopass   
+username = blankonuser   
+password = blankonpass   
 
 run test:   
 - run `docker exec -it blankon-web-1 sh` (container name)
